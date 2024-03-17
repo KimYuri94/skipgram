@@ -1,0 +1,2 @@
+The code applies the skip-gram algorithm to linked data sets, specifically the DBpedia and YAGO datasets, each containing 10,000 triples. 
+The goal is to identify missing links between them by utilizing skip-gram to address the scattered ontologies present in the two different linked data sets.
